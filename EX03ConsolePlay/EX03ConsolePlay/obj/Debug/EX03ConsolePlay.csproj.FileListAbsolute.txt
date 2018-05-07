@@ -1,0 +1,5 @@
+C:\Users\jona748e\Documents\S Coding\EX03ConsolePlay\EX03ConsolePlay\bin\Debug\EX03ConsolePlay.exe.config
+C:\Users\jona748e\Documents\S Coding\EX03ConsolePlay\EX03ConsolePlay\obj\Debug\EX03ConsolePlay.exe
+C:\Users\jona748e\Documents\S Coding\EX03ConsolePlay\EX03ConsolePlay\obj\Debug\EX03ConsolePlay.pdb
+C:\Users\jona748e\Documents\S Coding\EX03ConsolePlay\EX03ConsolePlay\bin\Debug\EX03ConsolePlay.exe
+C:\Users\jona748e\Documents\S Coding\EX03ConsolePlay\EX03ConsolePlay\bin\Debug\EX03ConsolePlay.pdb

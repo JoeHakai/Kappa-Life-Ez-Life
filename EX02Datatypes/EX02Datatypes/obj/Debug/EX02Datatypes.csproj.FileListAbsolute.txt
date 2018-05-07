@@ -1,0 +1,5 @@
+C:\Users\jona748e\Documents\S Coding\EX02Datatypes\EX02Datatypes\bin\Debug\EX02Datatypes.exe.config
+C:\Users\jona748e\Documents\S Coding\EX02Datatypes\EX02Datatypes\bin\Debug\EX02Datatypes.exe
+C:\Users\jona748e\Documents\S Coding\EX02Datatypes\EX02Datatypes\bin\Debug\EX02Datatypes.pdb
+C:\Users\jona748e\Documents\S Coding\EX02Datatypes\EX02Datatypes\obj\Debug\EX02Datatypes.exe
+C:\Users\jona748e\Documents\S Coding\EX02Datatypes\EX02Datatypes\obj\Debug\EX02Datatypes.pdb
